@@ -1,0 +1,6 @@
+site_name: Braden Watson
+nav:
+    - Home: 'index.md'
+    - Data Structures: 'data_structures.md'
+    - Maze Algorithm: 'maze_algorithm.md'
+theme: readthedocs
